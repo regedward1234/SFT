@@ -1,0 +1,3 @@
+﻿  UserInformation.c
+C:\Users\reged\source\repos\SFTWorkshop3\UserInformation.c(101,19): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  SFTWorkshop3.vcxproj -> C:\Users\reged\source\repos\SFTWorkshop3\x64\Debug\SFTWorkshop3.exe
